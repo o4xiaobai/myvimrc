@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/mnt/xx/work/platform/zctt/中创/support/doc'
+let g:netrw_dirhist_2='/home/lphu/gitosis-admin'
+let g:netrw_dirhist_3='/mnt/xx/work/my-study/git_web/welcome'
+let g:netrw_dirhist_4='/mnt/xx/work/my-study/git_web'
+let g:netrw_dirhist_5='/mnt/xx/work/my-study/git_web/frame'
+let g:netrw_dirhist_6='/mnt/xx/work/svn_10.0.1.16/mips-tools/nb-admin/appadmin'
+let g:netrw_dirhist_7='/mnt/xx/work/svn_10.0.1.16/tools/trunk/appadmin/tools/fruit'
